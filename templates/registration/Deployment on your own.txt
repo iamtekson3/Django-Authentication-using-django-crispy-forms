@@ -1,0 +1,5 @@
+Develop following html pages inside templates/registration folder
+1. password_reset_confirm.html
+2. password_reset_done.html
+3. password_reset_email.html
+4. password_reset_complete.html
