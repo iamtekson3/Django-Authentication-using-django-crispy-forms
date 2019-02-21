@@ -24,3 +24,6 @@ first of all you have to install postrgresql from following link: https://www.po
 >> pip install django-crispy-forms
 <h3> In setting.py file</h3>
 	CRISPY_TEMPLATE_PACK = 'bootstrap4'
+
+
+<h6> <a href = 'https://www.techiediaries.com/django-authentication/'>Click here to visit the official training site</a>
